@@ -10,8 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@adobe/react-webcomponent": "^0.1.3",
+    "@molb/gobiz-styleguide": "^0.15.26",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "sass": "^1.63.4"
   },
   "devDependencies": {
     "@types/react": "^18.0.37",
